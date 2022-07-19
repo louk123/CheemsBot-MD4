@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['212661809542'] //212661809542
+global.vcardowner = ['212661809542'] //L O 9 M A N E
 global.ownername = L O 9 M A N E  😻" //L O 9 M N A N E
 global.ytname = "NOUR_GAMING" //https://youtube.com/watch?v=4ZLKiL_-KEs
 global.socialm = "GitHub: DGXeon" //Twix.ff5373
