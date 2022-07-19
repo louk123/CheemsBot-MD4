@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['212661809542'] //212661809542
-global.ownername = "🦄ࢪقم صاحب البوت😻" //L O 9 M N A N E
+global.ownername = L O 9 M A N E  😻" //L O 9 M N A N E
 global.ytname = "NOUR_GAMING" //https://youtube.com/watch?v=4ZLKiL_-KEs
 global.socialm = "GitHub: DGXeon" //Twix.ff5373
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -65,7 +65,7 @@ global.owner = ['212661809542']
 global.ownertag = '212661809542' //212661809542
 global.botname = 'Cheems Bot MD V4' //L O 9 M A N E
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.websitex = "https://youtube.com/watch?v=4ZLKiL_-KEs" //https://youtube.com/watch?v=4ZLKiL_-KEs
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😎😈" //ur menu react emoji
 global.themeemoji = "💗😈" //ur theme emoji
