@@ -55,9 +55,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['212661809542'] //212661809542
-global.ownername = "🦄Dream Guy Xeon" //L O 9 M N A N E
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ownername = "🦄ࢪقم صاحب البوت😻" //L O 9 M N A N E
+global.ytname = "NOUR_GAMING" //https://youtube.com/watch?v=4ZLKiL_-KEs
+global.socialm = "GitHub: DGXeon" //Twix.ff5373
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
@@ -68,9 +68,9 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😍" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" // لمــࢪاڪــشي ࢦأوࢦ،⇣𓅫╰💓
+global.themeemoji = "💗😈" //ur theme emoji
+global.packname = "لـــقـــمــــان لمــࢪاڪــشي ࢦأوࢦ،⇣𓅫╰💓Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "L O 9 M A N E" // لمــࢪاڪــشي ࢦأوࢦ،⇣𓅫╰💓
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
@@ -78,7 +78,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['212661809542'] //212661809541
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
