@@ -61,7 +61,7 @@ global.socialm = "GitHub: DGXeon" //Twix.ff5373
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['212661809542']
+global.owner = ['212644425361']
 global.ownertag = '212661809542' //212661809542
 global.botname = 'Cheems Bot MD V4' //L O 9 M A N E
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
